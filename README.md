@@ -1,3 +1,3 @@
 # easy-spammer
 very easy to use command line spammer , must have python
-just run main.bat and chose an option 
+just run main.bat and chose an option  also the necesary libraries of course
